@@ -6,3 +6,5 @@ function rrrr($value) {
 }
 
 echo rrrr('こんな');
+
+echo rrrr('こんなでも');
