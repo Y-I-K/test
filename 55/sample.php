@@ -10,3 +10,5 @@ echo rrrr('こんな');
 echo rrrr('こんなでも');
 
 echo rrrr('次はこれだよ');
+
+echo rrrr('こちらはこれだよ');
